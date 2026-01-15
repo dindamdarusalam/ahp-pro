@@ -5,7 +5,7 @@ import '../models/ahp_data.dart';
 
 class ApiService {
   // TODO: Replace with your actual Gist Raw URL
-  static const String _gistUrl = 'https://gist.githubusercontent.com/YOUR_USERNAME/YOUR_GIST_ID/raw/config.json';
+  static const String _gistUrl = 'https://gist.githubusercontent.com/dindamdarusalam/59fc23c2a46a5d704553095481cda74a/raw/efc2c031d4c800e150f6e2c5f90990b5a8d65543/config.json';
 
   Future<String> _getBaseUrl() async {
     try {
